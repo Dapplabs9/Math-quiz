@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: red;
+    font-family: Arial;
+}
+#div1{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 800px;
+    height: 150px;
+}
+#div2{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 800px;
+    height: 150px;
+}
+h3{
+    margin-top: 20px;
+}
+input{
+    width: 280px;
+    border-radius: 5px;
+}
+button{
+    width: 280px;
+    height: 30px;
+    border-radius: 100px;
+    margin-top: 10px;
+    background-color: rgb(19, 144, 202);
+    color: white;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    margin-left: 350px;
+}
+#input_answer{
+    margin-bottom: 10px;
+}
